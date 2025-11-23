@@ -1,4 +1,4 @@
-# Módulo de Transações - Sistema Financeiro Jala University
+# Módulo de Transações 
 
 ## Descrição do Projeto
 
